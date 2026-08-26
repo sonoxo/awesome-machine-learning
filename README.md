@@ -1,3 +1,40 @@
+<div align="center">
+
+<img width="100%" src="docs/assets/sonoxo-ecosystem-orbit.svg" alt="MACHINE LEARNING ATLAS animated system flow" />
+
+# MACHINE LEARNING ATLAS
+
+### This curated index organizes machine-learning frameworks, libraries, and software by language and purpose.
+
+[Beginner map](#beginner-map) · [Original documentation](#original-documentation)
+
+</div>
+
+## Beginner map
+
+**01 — Define the problem** → **02 — Choose a language** → **03 — Open a category** → **04 — Inspect candidate projects** → **05 — Verify maintenance and license**
+
+| Signal | What it means |
+|---|---|
+| **Input** | The starting request, file, data, or question |
+| **Core** | The project’s main processing or navigation step |
+| **Output** | The result a person reviews or uses |
+| **Verification** | Check source, configuration, test evidence, maintenance, and license before relying on it |
+
+> [!IMPORTANT]
+> **Repository status:** Fork or mirror of `josephmisiti/awesome-machine-learning`. Original authorship, contribution policy, project links, and upstream curation remain preserved. Inclusion in the list is not a Sonoxo endorsement.
+
+<details>
+<summary><strong>Accessible motion</strong></summary>
+
+The SVG includes descriptive text and automatically disables animation when **Reduce Motion** is enabled. It uses no JavaScript, trackers, autoplay video, or external image host.
+
+</details>
+
+---
+
+## Original documentation
+
 # Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/)
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by `awesome-php`.
